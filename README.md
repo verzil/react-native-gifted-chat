@@ -30,6 +30,7 @@
 
 
 ## Features
+- **HAS PROFILE ICON DISPLAYED ON EVERY MESSAGE**
 - Fully customizable components
 - Composer actions (to attach photos, etc.)
 - Load earlier messages
